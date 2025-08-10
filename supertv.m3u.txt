@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SuperTV Test" tvg-logo="",SuperTV Test
-http://tv.supertv.life:80/play/dXGtPwSps85UIR-9uNwRXhN-UswkYuYYOLTcKroEUwR6eoMT_f29fzfZLQL5uF95-mop5UW6LeE1hsTIWuH2Ho4gtuzqlaa39fGxnjuBP_E6VpAkvNuBOK_tMeKFBRbqif9fkoY8FSIeVngiSgWaYdb0sblMCn2BZyfw0IHZ8EQ?ext=.ts
