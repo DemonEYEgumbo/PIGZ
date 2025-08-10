@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/165.png" group-title="FRIENDLY INTERNATIONAL",Borussia Dortmund vs Juventus (Stream 1 - Portuguese)
+#EXTVLCOPT:http-origin=https://play2.gomoon.live
+#EXTVLCOPT:http-referrer=https://play2.gomoon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_sporttv5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/165.png" group-title="FRIENDLY INTERNATIONAL",Borussia Dortmund vs Juventus (Stream 2 - Portuguese)
+#EXTVLCOPT:http-origin=https://play2.gomoon.live
+#EXTVLCOPT:http-referrer=https://play2.gomoon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/242.png" group-title="PRIMEIRA LIGA",Famalicao vs Santa Clara (Stream 1 - Portuguese)
+#EXTVLCOPT:http-origin=https://play2.gomoon.live
+#EXTVLCOPT:http-referrer=https://play2.gomoon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/46.png" group-title="ENGLAND-CHAMPIONSHIP",Leicester vs Sheffield Wednesday (Stream 1 - Sky Main Event)
+#EXTVLCOPT:http-origin=https://play2.gomoon.live
+#EXTVLCOPT:http-referrer=https://play2.gomoon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/46.png" group-title="ENGLAND-CHAMPIONSHIP",Leicester vs Sheffield Wednesday (Stream 2 - SKY Football FHD)
+#EXTVLCOPT:http-origin=https://play2.gomoon.live
+#EXTVLCOPT:http-referrer=https://play2.gomoon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/46.png" group-title="ENGLAND-CHAMPIONSHIP",Leicester vs Sheffield Wednesday (Stream 3 - SKY Football FHD)
+#EXTVLCOPT:http-origin=https://play2.gomoon.live
+#EXTVLCOPT:http-referrer=https://play2.gomoon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://liveua.cdnfly.click/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/46.png" group-title="ENGLAND-CHAMPIONSHIP",Leicester vs Sheffield Wednesday (Stream 4 - Sky Main Event)
+#EXTVLCOPT:http-origin=https://play2.gomoon.live
+#EXTVLCOPT:http-referrer=https://play2.gomoon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://liveua.cdnfly.click/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/basketball/170.png" group-title="WNBA",New York Liberty W vs Minnesota Lynx W (Stream 1 - WNBA)
+#EXTVLCOPT:http-origin=https://play2.gomoon.live
+#EXTVLCOPT:http-referrer=https://play2.gomoon.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://liveua.score806.cc/wnba_10/index.m3u8
+
